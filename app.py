@@ -3,5 +3,7 @@ if a%==0:
 	print('even')#for even
 elif :
 	print('odd')#For odd
-else :
+elif :
 	print('not a num')#print 
+else: 
+	print('underfined no')#print 
