@@ -1,7 +1,7 @@
 a=4
 if a%==0:
-	print('even')
+	print('even')#for even
 elif :
-	print('odd')
+	print('odd')#For odd
 else :
-	print('not a num')
+	print('not a num')#print 
